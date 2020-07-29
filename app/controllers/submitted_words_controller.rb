@@ -1,4 +1,4 @@
-class SubmittedWordsController < ApplicationController
+class Api::V1::SubmittedWordsController < ApplicationController
     def index
         game = Game.find(params[:game_id])
         submitted_words = game.submitted_words
