@@ -2,7 +2,7 @@
 
 ###### Boggle is a word game application (initially invented by Allan Turoff) played by using an automated generated grid of letters, in which players attempt to find words in sequences of adjacent letters. 
 
-###### You can find the Rails API backend for this app here: https://github.com/samanbatool08/boggle-game-backend
+###### You can find the Javascript frontend for this app here: https://github.com/samanbatool08/boggle-game-backend
 
 
 ###### Live website to play the game yourself: https://boggle-game-app.herokuapp.com/
